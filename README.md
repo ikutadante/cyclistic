@@ -117,8 +117,14 @@ Members are more active on weekdays (Monday to Friday) and less active on weeken
 The primary usage purpose of annual members is most likely for commuting, while casual riders use bike rentals for leisure purposes.
 
 ### Reconmmendations
-### 1.
-
+### 1.Attraction-Specific Bike Allocation:
+Allocate a portion of the bike fleet specifically for stations near attractions. This can help maintain a steady supply of bikes where demand is higher due to the proximity to popular tourist destinations.
+### 2.Weekend-Specific Promotions:
+Since casual users are more active on weekends, design targeted promotional offers that encourage them to sign up for annual memberships during weekends. This could include discounted rates or special benefits for weekend sign-ups.
+### 3.Flexible Weekend Plans:
+Create flexible membership plans that cater to weekend usage patterns. For example, offer reduced rates or extended ride durations specifically for weekends as part of the annual membership package.
+### 4.Attraction-Based Partnerships:
+Given that the top ten stations for casual users are near various attractions, establish partnerships with these attractions to offer joint promotions. For example, provide discounts for annual memberships with the purchase of attraction tickets.
 
 
 
