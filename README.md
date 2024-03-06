@@ -1,4 +1,4 @@
-# Capstone project Cyclistic Case Study 
+# Capstone Project Cyclistic Case Study 
 
 ## PHASE 1: Ask 
 
@@ -101,16 +101,23 @@ In this graphic, we observe a rising trend from February to August and a declini
 ### 7. Comparison of Weekday Ride Counts
 For our membership users, we observe a drop in bike usage on weekends. However, for casual users, there is a rising trend in bike usage during the weekends.
 ### 8.  Comparison of Ride Counts by Hour of the Day
-As seen in the diagram, there is an extremely pronounced rising trend between 6 and 8 hours, as well as between 15 and 17 hours for our membership users. Additionally, a gradual rising trend can be observed between 6 and 17 hours for casual users. This indicates that annual members primarily use bikes for commuting, while casual riders use bike rentals for leisure puroses.
+As seen in the diagram, there is an extremely pronounced rising trend between 6 and 8 hours, as well as between 15 and 17 hours for our membership users. Additionally, a gradual rising trend can be observed between 6 and 17 hours for casual users. This indicates that annual members primarily use bikes for commuting, while casual riders use bike rentals for leisure puroses. It's an inference drawn from the trends observed.
 ### 9. Top Ten Stations Preferred by Casual Users
-
-
+After searching the station names on Google Maps, I found that all these stations are near various attractions.This strengthens my viewpoint that casual riders use bike rentals for leisure purposes.
 
 ## PHASE 5: Action
 
 ### Conclusion
+The differences and similarities between annual members and casual users are as follows:
+### 1. Seasonal Trends:
+Seasons have a significant impact on overall ride frequency. During temperature drops, fewer riders are observed, and vice versa.
+### 2.Weekday and Weekend Trends: 
+Members are more active on weekdays (Monday to Friday) and less active on weekends, whereas casual riders are more active on weekends.
+### 3.Usage Patterns:
+The primary usage purpose of annual members is most likely for commuting, while casual riders use bike rentals for leisure purposes.
 
-
+### Reconmmendations
+### 1.
 
 
 
