@@ -4,41 +4,48 @@
 
 ### Introduction
 I’m a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share company in Chicago which features more than 5800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. 
+
 The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic uses are more likely to ride for leisure, but about 30% use the bikes to commute to work each day. 
-Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. The Director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, our team wants to understand how casual riders and annual members use Cyclistic bikes differently and design marketing strategies aimed at converting casual riders into annual members.
+
+Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. The Director of marketing believes the company’s future success depends on maximizing the number of annual memberships. 
+
+Therefore, our team wants to understand how casual riders and annual members use Cyclistic bikes differently and design marketing strategies aimed at converting casual riders into annual members.
 
 ### Business Task
 
 How do annual members and casual riders use Cyclistic bikes differently?
+
 How to convert casual riders into annual members?
 
-### Stakeholders:
+### Stakeholders
 Lily Moreno: The director of marketing and my manager.
+
 Cyclistic executive team: A detail-oriented executive team who will decide whether to approve the recommended marketing program.
+
 Cyclistic marketing analytics team: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Cyclistic’s marketing strategy.
 
 ## PHASE 2: Prepare
 
-### Data Sources:
-Public data from Motivate International Inc.(Divvy Bicycle Sharing Service from Chicago) under this license.
-Cyclistic’s historical trip data available in .csv format
+### Data Sources
+Public data from Motivate International Inc.(Divvy Bicycle Sharing Service from Chicago) under this [license](https://divvybikes.com/data-license-agreement).
 
-### Data range: 
-January 2023 to December 2023
+[Cyclistic’s historical trip data](https://divvy-tripdata.s3.amazonaws.com/index.html) available in .csv format
 
-### Data Organisation:
-There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file includes information for one month, such as the ride id, bike type, start time, end time, start station, end station, start location, end location, and whether the rider is a member or not. The corresponding column names are ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
+### Data range
+January 2022 to December 2022
+
+### Data Organisation
+There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file includes information for one month, such as the ride id, bike type, start time, end time, start station, end station, start location, end location, and whether the rider is a member or not. 
 
 ## PHASE 3: Process
 
-### Data Combination:
+### Data Combination
 
-I uploaded 12 csv files as tables in the dataset `cyclistic`, another table named “trip_data_2022” was created, containing  all rows of data for the entire year which is
-5 millions rows.
+I uploaded 12 csv files as tables in the dataset `cyclistic`, another table named “trip_data_2022” was created, containing  all rows of data for the entire year which are 5 millions rows.
 
-### Data Cleaning:
+### Data Cleaning
 
-1. Identify and Remove null values.
+1. Identify and remove null values.
 2. Identify and remove duplicate values.
 3. Identify and remove spaces before and after values.
 4. Identify and remove start time later than endtime.
@@ -48,7 +55,7 @@ I uploaded 12 csv files as tables in the dataset `cyclistic`, another table name
 
 ## PHASE 4: Analyze and Share
 
-### Analyze:
+### Analyze
 
 1. Create a column with the calculated ride duration in minutes.
 2. Create a column with the weekdays.
@@ -73,16 +80,17 @@ In order to answer the business task, I prepared a few charts.
 
 1. Total ride share
 Insights:
+59.7% of total rides(4.32M) were taken by annual members.
+Our target group which is casual riders takes 40.3% of the total rides.
 
 
 
 
-## Summary
 
+## PHASE 5: Action
 
-PHASE 5: Action
+### Conclusion and Recommendations
 
-Conclusion and Recommendations:
 
 
 
