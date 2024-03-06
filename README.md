@@ -3,7 +3,7 @@
 ## PHASE 1: Ask 
 
 ### Introduction
-I’m a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share company in Chicago which features more than 5800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. 
+I’m a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share company in Chicago which features more than 5800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more accessible to people with disabilities and riders who can’t use a standard two-wheeled bike. 
 
 The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic uses are more likely to ride for leisure, but about 30% use the bikes to commute to work each day. 
 
@@ -41,14 +41,14 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 
 ### Data Combination
 
-I uploaded 12 csv files as tables in the dataset `cyclistic`, another table named “trip_data_2022” was created, containing  all rows of data for the entire year which are 5 millions rows.
+I uploaded 12 csv files as tables in the dataset `cyclistic`, another table named “trip_data_2022” was created, containing  all rows of data for the entire year which comprises over 5 million rows.
 
 ### Data Cleaning
 
 1. Identify and remove null values.
 2. Identify and remove duplicate values.
 3. Identify and remove spaces before and after values.
-4. Identify and remove start time later than endtime.
+4. Identify and remove rows where the start time is later than the end time.
 5. Identify and remove trip times that are over 1 day.
 6. Identify and remove trip times that are less than 1 minute.
 
@@ -57,23 +57,23 @@ I uploaded 12 csv files as tables in the dataset `cyclistic`, another table name
 
 ### Analyze
 
-1. Create a column with the calculated ride duration in minutes.
-2. Create a column with the weekdays.
-3. Create a column with the months.
-4. Add hour_of_day column.
-5. Populate hour_of_day with the hour component.
-6. Count the number of membertype.
-7. Count the type of preferred bike per member type.
-8. Count of rides for each member type.
-9. Count of monthly rides for each member type.
-10. Count of weekday rides for each member type.
-11. Count of hour of day rides for each member type.
-12. Average ride duration for each member type.
-13. Average ride duration for each member per month.
-14. Average ride duration for each member per weekday.
-15. Top 10 start stations for casual members.
-16. Top 10 end stations for casual members.
-
+1. Create a column for calculating ride duration in minutes.
+2.Create a column for weekdays.
+3.Create a column for months.
+4.Add an "hour_of_day" column.
+5.Populate the "hour_of_day" column with the hour component.
+6.Count the number of member types.
+7.Count the types of preferred bikes per member type.
+8.Count the total rides for each member type.
+9.Count the monthly rides for each member type.
+10.Count the weekday rides for each member type.
+11.Count the hour of day rides for each member type.
+12.Calculate the average ride duration for each member type.
+13.Calculate the average ride duration for each member per month.
+14.Calculate the average ride duration for each member per weekday.
+15.Identify the top 10 start stations for casual members.
+16.Identify the top 10 end stations for casual members.
+   
 ### Visualisation
 
 In order to answer the business task, I prepared a few charts.
@@ -112,11 +112,11 @@ The differences and similarities between annual members and casual users are as 
 ### 1. Seasonal Trends:
 Seasons have a significant impact on overall ride frequency. During temperature drops, fewer riders are observed, and vice versa.
 ### 2.Weekday and Weekend Trends: 
-Members are more active on weekdays (Monday to Friday) and less active on weekends, whereas casual riders are more active on weekends.
+Members are more active on weekdays (Monday to Friday) and less active on weekends, while casual riders show increased activity on weekends.
 ### 3.Usage Patterns:
 The primary usage purpose of annual members is most likely for commuting, while casual riders use bike rentals for leisure purposes.
 
-### Reconmmendations
+### Recommendations
 ### 1.Attraction-Specific Bike Allocation:
 Allocate a portion of bikes specifically for stations near attractions. This can help maintain a steady supply of bikes where demand is higher due to the proximity to popular tourist destinations.
 ### 2.Weekend-Specific Promotions:
