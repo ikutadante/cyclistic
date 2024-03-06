@@ -78,18 +78,38 @@ I uploaded 12 csv files as tables in the dataset `cyclistic`, another table name
 
 In order to answer the business task, I prepared a few charts.
 
-1. Total ride share
+### 1. Overall Ride Share
 Insights:
-59.7% of total rides(4.32M) were taken by annual members.
-Our target group which is casual riders takes 40.3% of the total rides.
+Annual members accounted for 59.7% of the total rides (4.32 million), while our target group, casual riders, took 40.3% of the total rides.
 
+### 2. Distribution of Rideable Types
+Of our annual members, 65.6% choose classic bikes to ride, while 50.6% of casual users opt for classic bikes as well. It seems that classic bikes are more popular than electric bikes for both types of users.
 
+### 3. Comparison of Average Durations
+The average ride duration for annual members is 12 minutes, compared to casual users, which is 23 minutes, almost half the duration.
+
+### 4. Monthly Comparison of Average Durations
+The average ride duration for annual members barely changes across different months. However, for casual users, we observe a rising trend from the winter season to the summer season and a declining trend from the summer season to the winter season.
+
+### 5. Weekday Comparison of Average Durations
+
+Once again, the average ride duration for annual members remains relatively consistent across different weekdays. However, for casual users, the duration increases to 26 or 27 minutes on Saturdays and Sundays compared to an average time of 21 or 22 minutes on workdays.
+
+### 6.  Comparison of Monthly Ride Counts
+In this graphic, we observe a rising trend from February to August and a declining trend from September to December for both memberships. We can observe a significant impact of the winter season on the usage of Cyclistic bikes.
+
+### 7. Comparison of Weekday Ride Counts
+For our membership users, we observe a drop in bike usage on weekends. However, for casual users, there is a rising trend in bike usage during the weekends.
+### 8.  Comparison of Ride Counts by Hour of the Day
+As seen in the diagram, there is an extremely pronounced rising trend between 6 and 8 hours, as well as between 15 and 17 hours for our membership users. Additionally, a gradual rising trend can be observed between 6 and 17 hours for casual users. This indicates that annual members primarily use bikes for commuting, while casual riders use bike rentals for leisure puroses.
+### 9. Top Ten Stations Preferred by Casual Users
 
 
 
 ## PHASE 5: Action
 
-### Conclusion and Recommendations
+### Conclusion
+
 
 
 
