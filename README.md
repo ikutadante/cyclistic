@@ -54,7 +54,7 @@ I uploaded 12 csv files as tables in the dataset `cyclistic`, another table name
 
 
 ## PHASE 4: Analyze and Share
-
+[SQL Query](Cyclistic_ikuta.sql)
 ### Analyze
 1. Create a column for calculating ride duration in minutes.  
 2. Create a column for weekdays.  
