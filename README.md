@@ -85,35 +85,43 @@ Annual members accounted for 59.7% of the total rides (4.32 million), while our 
 
 ### 2. Distribution of Rideable Types
 ![Image text](https://github.com/ikutadante/cyclistic/blob/main/Visualization/2.%20Distribution%20of%20Rideable%20Types.png)  
+
 Of our annual members, 65.6% choose classic bikes to ride, while 50.6% of casual users opt for classic bikes as well. It seems that classic bikes are more popular than electric bikes for both types of users.
 
 ### 3. Comparison of Average Durations
 ![Image text](https://github.com/ikutadante/cyclistic/blob/main/Visualization/3.%20Comparison%20of%20Average%20Durations.png)  
+
 Annual members have an average ride duration of 12 minutes. In contrast, casual users ride for an average of 23 minutes, which is almost twice as long.
 
 ### 4. Monthly Comparison of Average Durations
 ![Image text](https://github.com/ikutadante/cyclistic/blob/main/Visualization/4.%20Monthly%20Comparison%20of%20Average%20Durations.png)  
+
 The average ride duration for annual members barely changes across different months. However, for casual users, we observe a rising trend from the winter season to the summer season and a declining trend from the summer season to the winter season.
 
 ### 5. Weekday Comparison of Average Durations
 ![Image text](https://github.com/ikutadante/cyclistic/blob/main/Visualization/5.%20Weekday%20Comparison%20of%20Average%20Durations.png)  
+
 Once again, the average ride duration for annual members remains relatively consistent across different weekdays. However, for casual users, the duration increases to 26 or 27 minutes on Saturdays and Sundays compared to an average time of 21 or 22 minutes on workdays.
 
 ### 6.  Comparison of Monthly Ride Counts
 ![Image text](https://github.com/ikutadante/cyclistic/blob/main/Visualization/6.%20Comparison%20of%20Monthly%20Ride%20Counts.png)  
+
 In this graphic, we observe a rising trend from February to August and a declining trend from September to December for both memberships. We can observe a significant impact of the winter season on the usage of Cyclistic bikes.
 
 ### 7. Comparison of Weekday Ride Counts
 ![Image text](https://github.com/ikutadante/cyclistic/blob/main/Visualization/7.%20Comparison%20of%20Weekday%20Ride%20Counts.png)
+
 For our membership users, we observe a drop in bike usage on weekends. However, for casual users, there is a rising trend in bike usage during the weekends.
 
 ### 8.  Comparison of Ride Counts by Hour of the Day
 ![Image text](https://github.com/ikutadante/cyclistic/blob/main/Visualization/8.%20Comparison%20of%20Ride%20Counts%20by%20Hour%20of%20the%20Day.png)
+
 As seen in the diagram, there is an extremely pronounced rising trend between 6 and 8 o'clock, as well as between 15 and 17 o'clock for our membership users. Additionally, a gradual rising trend can be observed between 6 and 17 o'clock for casual users. This indicates that annual members primarily use bikes for commuting, while casual riders use bike rentals for leisure puroses. It's an inference drawn from the trends observed.
 
 ### 9. Top Ten Stations Preferred by Casual Users
 ![Image text](https://github.com/ikutadante/cyclistic/blob/main/Visualization/9.%20Top%20Ten%20Start%20Stations%20Preferred%20by%20Casual%20Users.png)
 ![Image text](https://github.com/ikutadante/cyclistic/blob/main/Visualization/9.%20Top%20Ten%20End%20Stations%20Preferred%20by%20Casual%20Users%20.png)
+
 After searching the station names on Google Maps, I found that all these stations are near various attractions.This strengthens my viewpoint that casual riders use bike rentals for leisure purposes.
 
 ## PHASE 5: Action
