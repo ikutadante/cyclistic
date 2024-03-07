@@ -79,6 +79,7 @@ I uploaded 12 csv files as tables in the dataset `cyclistic`, another table name
 In order to answer the business task, I prepared a few charts.
 
 ### 1. Overall Ride Share
+ ![alt text](Visualization/1. Overall Ride Share.png)
 Insights:
 Annual members accounted for 59.7% of the total rides (4.32 million), while our target group, casual riders, took 40.3% of the total rides.
 
