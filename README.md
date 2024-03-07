@@ -37,6 +37,12 @@ January 2022 to December 2022
 ### Data Organisation
 There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file includes information for one month, such as the ride id, bike type, start time, end time, start station, end station, start location, end location, and whether the rider is a member or not. 
 
+### Tools
+Data Cleaning: Microsoft SQL Server  
+
+Data Visualization: PowerBI
+
+
 ## PHASE 3: Process
 
 ### Data Combination
